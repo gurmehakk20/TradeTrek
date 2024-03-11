@@ -1,17 +1,13 @@
 body{
 	font-family: Arial, sans-serif;
 	margin: 0px;
-	/* background-color: #0e081c; */
-
 }
+
 nav {
 	background-color: rgb(11, 11, 49);
-	/* color:#c45c5c; */
-	padding: 15px;
-	/* border: 2px solid red; */
-	
-	
+	padding: 15px;	
 }
+
 .container {
 	max-width: 90%;
 	margin: 0 auto;
